@@ -8,3 +8,4 @@ Sebs SW
 1.5
 Update Log
  https://github.com/sebastian2007bro/Windows-Explorer-Program-/projects/1
+ For New updates go to https://sebs-sw-b.netlify.app/sebs-sw/sebs-sw-all
